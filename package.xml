@@ -27,7 +27,7 @@
 
   <depend>rclcpp</depend>
   <depend>eigen_stl_containers</depend>
-  <depend>console_bridge_vendor</depend>
+  <depend>libconsole-bridge-dev</depend>
   <depend>libqhull</depend>
   <depend>octomap</depend>
   <depend>random_numbers</depend>
