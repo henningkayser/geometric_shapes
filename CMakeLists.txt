@@ -32,7 +32,7 @@ set(ASSIMP_LIBRARIES "${ASSIMP_ABS_LIBRARIES}")
 
 find_package(rclcpp REQUIRED)
 find_package(Boost REQUIRED filesystem)
-find_package(console_bridge 0.4.0 EXACT REQUIRED)
+find_package(console_bridge 0.4.4 EXACT REQUIRED)
 find_package(eigen3_cmake_module REQUIRED)
 find_package(Eigen3 REQUIRED)
 find_package(OCTOMAP REQUIRED)
